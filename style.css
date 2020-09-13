@@ -1,0 +1,80 @@
+h1 {
+    background-color: #004175;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    padding-left: 30px;
+    border: 2px solid #89DEEF
+}
+
+body {
+    font-family: oswald;
+}
+* {margin: 0;
+} 
+
+
+ ul {
+    
+     margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px; 
+    list-style-type: none;
+}
+ h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+p {
+     padding-bottom: 10px;
+}
+li {
+    display: inline-block;
+     margin: 3px;
+     padding: 2px;
+    background-color: #89deef;
+    border-radius: 20%;
+    
+} 
+h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+.dog {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 27%;
+    margin: 10px;
+} 
+
+ .footer {
+background-repeat: no-repeat;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    color: whitesmoke; 
+     background:  linear-gradient(
+        rgba(166, 169, 240, 1), 
+        rgba(166, 169, 240, 1) )
+} 
+.volunteer {
+    height:285px;
+    opacity: 40%;
+    
+    }
+.location {
+    opacity: 40%;
+}
+
+.donate {
+    opacity: 40%;
+}
+
+
+
